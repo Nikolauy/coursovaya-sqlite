@@ -1,0 +1,7 @@
+# Visual Studio specific
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
